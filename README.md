@@ -1,7 +1,1 @@
-Github is the best Hub
-
-It will make you come!
-
-No Ads, No Credit Card
-
-A Danger
+This project is to inform new GitHub users (like myself) how to do the very basics. It is also intended to do the same for HTML. There are a few links to help illustrate some of the HTML points.
